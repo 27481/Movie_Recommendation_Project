@@ -1,0 +1,4 @@
+pandas==2.0.0
+scikit-learn==1.2.1
+requests==2.26.0
+streamlit==1.21.0
